@@ -59,3 +59,9 @@ node_modules/
 dist/
 
 /src/generated/prisma
+
+# agent tooling (local only)
+.agents/
+.claude/
+.cursor/
+.devin/
